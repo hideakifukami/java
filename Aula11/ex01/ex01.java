@@ -15,7 +15,6 @@ public class ex01 {
 		
 		for (int i = 7; i < 10; i++) {
 			System.out.println(notas[i]);
-		}
-		
+		}	
 	}
 }
