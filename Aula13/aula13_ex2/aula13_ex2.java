@@ -34,7 +34,7 @@ private static Scanner sc = new Scanner(System.in);
 			}
 		}
 		
-		System.out.println("A quantidade de números ímpares é: " + quantidadeImpares);
+		System.out.println("\n A quantidade de números ímpares é: " + quantidadeImpares);
 		System.out.println("São eles: " + impares);
 
 		
