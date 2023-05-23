@@ -1,8 +1,8 @@
-package aula_ex01;
+package aula14_ex01;
 
 import java.util.Scanner;
 
-public class aula_ex01 {
+public class aula14_ex01 {
 	private static Scanner sc = new Scanner(System.in);
 	
 	public static void main(String[] args) {
